@@ -137,12 +137,7 @@ within 1.9 minutes of pollutant injection with zero false alarms.
 If you use this code in academic work, please cite:
 
 ```bibtex
-@misc{jellyfish-bews,
-  title  = {Jellyfish: an unsupervised behavioural BEWS for marine pollution detection},
-  author = {<your name(s)>},
-  year   = {2026},
-  url    = {https://github.com/<your-username>/jellyfish}
-}
+TBD
 ```
 
 ## License
